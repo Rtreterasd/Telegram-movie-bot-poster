@@ -6,7 +6,7 @@
 
 <img src="screenshot-1.png" alt="Скриншот 1" width="32%">
 <img src="screenshot-2.png" alt="Скриншот 2" width="32%">
-<img src="screenshot-3.png" alt="Скриншот 3" width="32%">
+<img src="1.png" alt="Скриншот 3" width="32%">
 
 
 ## Запуск
