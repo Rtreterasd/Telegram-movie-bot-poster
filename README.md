@@ -2,13 +2,12 @@
 
 Бот принимает список названий фильмов/сериалов/аниме в столбик, берет данные из TMDb и OMDb, накладывает тип на постер и публикует случайный элемент вручную или по расписанию.
 
-## Скриншоты
+## 📸 Скриншоты
 
-<p align="center">
-  <img src="screenshots/screenshot-1.png" alt="Скриншот 1" width="32%">
-  <img src="screenshots/screenshot-2.png" alt="Скриншот 2" width="32%">
-  <img src="screenshots/screenshot-3.png" alt="Скриншот 3" width="32%">
-</p>
+<img src="screenshot-1.png" alt="Скриншот 1" width="32%">
+<img src="screenshot-2.png" alt="Скриншот 2" width="32%">
+<img src="screenshot-3.png" alt="Скриншот 3" width="32%">
+
 
 ## Запуск
 
